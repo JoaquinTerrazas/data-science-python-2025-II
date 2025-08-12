@@ -10,3 +10,9 @@ This is a data science course in python for Universidad del Pacifico
 2. Pegalon
 3. Gordo
 4. Caballo
+
+
+## List of schools
+1. Reina de las Americas
+2. Maria Reina
+3. San Norberto
